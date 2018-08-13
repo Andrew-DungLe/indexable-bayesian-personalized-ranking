@@ -1,5 +1,5 @@
 # Indexable Bayesian Personalized Ranking for Efficient Top-K Recommendation
-This repository provides a Matlab implementation of IBPR, an indexable representation learning for efficient and accurate personalized recommendation retrieval.\
+This repository provides a Matlab implementation of IBPR, an indexable representation learning for efficient and accurate personalized recommendation retrieval.
 
 More details are described in the following paper:
 **Indexable Bayesian Personalized Ranking for Efficient Top-k Recommendation, by Dung D. Le and Hady W. Lauw,
